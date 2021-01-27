@@ -1,4 +1,4 @@
-# Memory - memory game
+# Weather app
 
 ## General info
 
